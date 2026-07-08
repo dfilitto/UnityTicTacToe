@@ -1,16 +1,22 @@
-![](https://github.com/dfilitto/UnityBiscoitoDaSorte/blob/main/capa_biscoiteSorte.jpg)
-# Unity Biscoito Da Sorte Digital
-Aprenda a usar a tecnologia que é o presente e o futuro das UIs na Unity! Nesta minissérie gratuita de 3 vídeos, você vai aprender a dominar o Unity UI Toolkit construindo um projeto prático, divertido e direto ao ponto: o Biscoito da Sorte Digital.
+![](https://raw.githubusercontent.com/dfilitto/UnityTicTacToe/refs/heads/main/jogo%20da%20velha.jpg)
+# Unity Tic Tac Toe (Jogo Da Velha)
+🎮 Evolua suas habilidades de UI e lógica na Unity com um projeto clássico!
 
-Nele, o usuário clica em um botão customizado (o biscoito) e o sistema sorteia dinamicamente uma frase motivacional ou divertida na tela. É o projeto perfeito para quem quer entender o fluxo de trabalho moderno de UI sem complicação!
+Depois de aprender os fundamentos, é hora de dar o próximo grande passo. Nesta série de 5 vídeos, o aluno aprende a desenvolver um Jogo da Velha Digital (Jogador vs. PC) do absoluto zero, utilizando o poder do Unity UI Toolkit e da programação C#.
+
+O grande diferencial deste projeto é a introdução do USS (Folhas de Estilo), onde o estudante descobre como criar classes visuais reutilizáveis para estilizar múltiplos elementos de uma só vez, além de implementar uma inteligência artificial simples para o computador e uma matriz lógica para checagem de vitórias.
 
 📅 Estrutura da Série (Links dos Vídeos):
 
-🔹 Parte 1 (Cena e UXML): https://youtu.be/JimVfxRS_Co
+🔹 Encontro 1 (Arquitetura): [COLOQUE O LINK DO VÍDEO 1 AQUI]
 
-🔹 Parte 2 (UI Builder e Design): https://youtu.be/86vdPILexsU
+🔹 Encontro 2 (Elementos UXML): [COLOQUE O LINK DO VÍDEO 2 AQUI]
 
-🔹 Parte 3 (C# e Teste Final): https://youtu.be/gtULIdYO4rE
+🔹 Encontro 3 (Estilos USS): [COLOQUE O LINK DO VÍDEO 3 AQUI]
+
+🔹 Encontro 4 (C# - Parte 1): [COLOQUE O LINK DO VÍDEO 4 AQUI]
+
+🔹 Encontro 5 (C# - Parte 2): [COLOQUE O LINK DO VÍDEO 5 AQUI]
 
 🚀 Links Úteis e Comunidade:
 
