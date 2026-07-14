@@ -18,13 +18,13 @@ O grande diferencial deste projeto é a introdução do USS (Folhas de Estilo), 
 
 🔹 Encontro 6 (Interagindo com os componentes): https://youtu.be/bpwjP_I6k1Y
 
-🔹 Encontro 7 ():
+🔹 Encontro 7 (Programando o inicio do jogo): https://youtu.be/dwV4RoH6ozY
 
-🔹 Encontro 8 ():
+🔹 Encontro 8 (Programando a jogado do jogador): https://youtu.be/RMpJNfbdoko
 
-🔹 Encontro 9 ():
+🔹 Encontro 9 (Mêcanica de IA do PC): https://youtu.be/xOmqx7cQlY8
 
-🔹 Encontro 10 ():
+🔹 Encontro 10 (Melhorando nossa interface): https://youtu.be/Olp_KTdO1rI
 
 
 # 🚀 Links Úteis e Comunidade:
